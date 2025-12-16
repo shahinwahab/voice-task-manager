@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="{{LIVE_DEMO_URL}}">🌐 Live Demo</a> •
-  <a href="{{APK_URL}}">📥 Download APK</a>
+  <a href="https://voice-task-manager.web.app/">🌐 Live Demo</a> •
+  <a href="https://github.com/shahinwahab/voice-task-manager.git">📥 Download APK</a>
 </p>
 
 ---
